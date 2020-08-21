@@ -1,7 +1,7 @@
 ### Hi there, I'm Sanghyuk Lee - aka [sanghyuk2][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/sanghyuk2)
-[![Instagram Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/s.hyuk_2/)
+[![Website](https://img.shields.io/website?label=sanghyuk2.com&style=for-the-badge&url=https://codestackr.com)](https://github.com/sanghyuk2)
+[![Instagram Follow](https://img.shields.io/twitter/follow/sanghyuk2?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/s.hyuk_2/)
 
 ## I'm a Developer, and student at the same time!
 
