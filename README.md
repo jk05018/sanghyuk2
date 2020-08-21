@@ -50,9 +50,9 @@
 YOUTUBE:END 
 
 ➡️ [more videos...](https://youtube.com/codestackr) -->
-
+<!--
 ---
-<!-- BLOG-POST-LIST:START 
+ BLOG-POST-LIST:START 
 ### 📕 Latest Blog Posts
 
 
@@ -65,6 +65,7 @@ YOUTUBE:END
 
 ➡️ [more blog posts...](https://codestackr.com) -->
 
+---
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
@@ -81,8 +82,7 @@ YOUTUBE:END
 
 <details>
   <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="sanghyuk2's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="sanghyuk2's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sanghyuk2&show_icons=true&hide_border=true" />
 
 </details>
 
